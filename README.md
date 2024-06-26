@@ -1,4 +1,4 @@
-## Crud app <img alt="IMG" height="50" src="https://images.app.goo.gl/XTrePcpyqoTHz37F9"/>
+## Crud app
 
 > ### **View My projects** " https://crud-app20.netlify.app/ " ###
 > 
